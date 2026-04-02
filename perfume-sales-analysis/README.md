@@ -5,6 +5,8 @@ This project analyzes eBay fragrance listings to evaluate product performance an
 
 The analysis follows a structured workflow including **data cleaning, data processing, and data visualization**. Data preparation was performed using Power Query in Excel, and the dashboard was built in Power BI.
 
+Source: https://www.kaggle.com/datasets/kanchana1990/perfume-e-commerce-dataset-2024
+
 ## Report Preview
 
 Below is a preview of the dashboard:
