@@ -8,13 +8,6 @@ Below is a preview of the dashboard:
 
 ![Report Preview](dashboard_image/preview.png)
 
-## Tools & Functions Used
-- **Microsoft Excel**
-- **Data Retrieval:** INDEX and MATCH
-- **Logical Functions:** IF for blank/error handling
-- **Data Aggregation:** Pivot Tables
-- **Interactive Elements:** Pivot Charts, Slicers, Timeline
-
 ## Steps Involved
 
 ### 1. Data Preparation & Merging
