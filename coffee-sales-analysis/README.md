@@ -7,7 +7,6 @@ This project demonstrates an end-to-end data analysis process using Microsoft Ex
 (The interactive dashboard preview can be seen below)
 
 ![Report Preview](images/preview.png)
-(Note: Replace preview.png with the actual screenshot of the Excel dashboard)
 
 ## Tools & Functions Used
 - **Microsoft Excel**
