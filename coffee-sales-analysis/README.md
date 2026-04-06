@@ -6,8 +6,7 @@ This project demonstrates an end-to-end data analysis process using Microsoft Ex
 ## Report Preview
 Below is a preview of the dashboard:
 
-![Report Preview](data-driven-business-insights/coffee-sales-analysis
-/preview.png)
+![Report Preview](dashboard_image/preview.png)
 
 ## Tools & Functions Used
 - **Microsoft Excel**
