@@ -33,8 +33,8 @@ The Pivot Tables were compiled into a single, cohesive Dashboard sheet:
 
 ## Key Insights
 - **Geographical Concentration:** The United States market heavily dominates total revenue generation (approx. 79% or $35,638), significantly outpacing the Ireland and United Kingdom markets.
-- **Product Performance & Preferences:** - Larger packaging sizes (2.5 kg) account for over 50% of the total revenue ($23,785). 
-  - Among all variations, Excelsa beans paired with a Light Roast generate the highest sales volume.
+- **Product Performance & Preferences:** - Larger packaging sizes (2.5 kg) account for over 50% of the total revenue ($23,785).
+- Among all variations, Excelsa beans paired with a Light Roast generate the highest sales volume.
 - **Loyalty Program Anomaly:** Non-Loyalty customers demonstrate a higher Average Order Value ($46.48) compared to customers enrolled in the Loyalty program ($43.67), indicating a potential inefficiency in the current reward structure.
 - **Time-Series Trends:** Sales exhibit significant monthly fluctuations, with peak performance recorded in February 2020 ($1,798.34).
 - **Customer Lifetime Value:** A select group of top-tier customers consistently drive higher value, with the top 5 customers spending between $278 and $317 individually over the recorded period.
