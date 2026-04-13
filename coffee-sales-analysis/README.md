@@ -6,7 +6,7 @@ This project demonstrates an end-to-end data analysis process using Microsoft Ex
 ## Report Preview
 Below is a preview of the dashboard:
 
-![Report Preview](dashboard_image/preview.png)
+![Report Preview](dashboard_image/preview.jpg)
 
 ## Steps Involved
 
