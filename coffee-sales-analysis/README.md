@@ -52,5 +52,5 @@ The Pivot Tables were compiled into a single, cohesive Dashboard sheet:
 - Non-loyalty customers have a higher average order value than loyalty customers, which suggests that the current loyalty program may not be effective and should be reviewed.
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/adhisandira  
+LinkedIn: [tps://www.linkedin.com/in/adhisandira ](https://www.linkedin.com/in/adhisandira)
 Email: andiraadhis@gmail.com
