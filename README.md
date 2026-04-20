@@ -3,6 +3,6 @@ This repository contains a collection of projects focused on transforming unstru
 
 Feel free to connect with me:
 
-LinkedIn: https://www.linkedin.com/in/adhisandira
+LinkedIn: [https://www.linkedin.com/in/adhisandira](https://www.linkedin.com/in/adhisandira)
 
 Email: andiraadhis@gmail.com
