@@ -77,5 +77,5 @@ This analysis suggests that dead stock risk in the fragrance resale market is cl
 
 
 ## Contact
-**LinkedIn**: https://www.linkedin.com/in/adhisandira  
+**LinkedIn**: [https://www.linkedin.com/in/adhisandira](https://www.linkedin.com/in/adhisandira)  
 **Email**: andiraadhis@gmail.com
