@@ -1,7 +1,7 @@
 # Coffee Sales 2019-2022 Dashboard (Excel)
 
 ## Project Overview
-This project demonstrates an end-to-end data analysis process using Microsoft Excel. The primary focus is transforming raw relational data tables into an interactive dashboard. This workflow encompasses data cleaning, table merging using lookup functions, data aggregation via Pivot Tables, and dynamic visualization.
+This project demonstrates an end-to-end data analysis process using Microsoft Excel. The primary focus is transforming raw relational data tables into an interactive dashboard. This workflow encompasses data cleaning, table merging using lookup functions, data aggregation using pivot tables, and dynamic visualization.
 
 ## Report Preview
 Below is a preview of the dashboard:
