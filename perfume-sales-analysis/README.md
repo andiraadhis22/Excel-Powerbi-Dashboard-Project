@@ -1,4 +1,4 @@
-# eBay Perfume Sales 2024 Dashboard
+# eBay Perfume Sales 2024 Dashboard (Excel and Power BI)
 
 ## Project Overview
 This project analyzes eBay fragrance listings to evaluate product performance and demand patterns, with the goal of helping resellers make more informed product selection decisions and reduce dead stock risk.
