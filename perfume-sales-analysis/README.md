@@ -30,7 +30,7 @@ To prepare the dataset for analysis, several transformations were applied:
 - Created a **Price_USD** column for consistent price comparison
 - Derived **Gender segmentation** (Men/Women) based on dataset source
 - Structured item location into **City, State, and Country**
-- Standardized brand naming (e.g., CK → Calvin Klein, YSL → Yves Saint Laurent)
+- Standardized brand naming to ensure consistency across the dataset. Some brands appeared in multiple formats (e.g., abbreviations, different spellings, or variations in casing), such as “CK”, “C.K”, and “Calvin Klein” → “Calvin Klein”, “YSL” and “Yves Saint Laurent” → “Yves Saint Laurent”
 
 ### 3. Data Visualization
 An interactive dashboard was developed in Power BI to analyze:
